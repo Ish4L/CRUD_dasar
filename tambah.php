@@ -8,6 +8,7 @@
 <body>
     <h1>Halaman Tambah Data</h1>
     <br>
+    <a href="index.php">Kembali ke Halaman Utama</a>
     <form method="POST" action="tambah_proses.php">
         <table>
             <tr>
